@@ -8,7 +8,7 @@
 
 ## Research
 
-[Something](/sample_page)
+[Something else](/pdf/sample_presentation.pdf)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
