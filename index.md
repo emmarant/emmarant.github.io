@@ -5,14 +5,17 @@
 ### WHO
 
 [Something](/sample_page)
+
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
 ---
 [Something else](/pdf/sample_presentation.pdf)
+
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
 ---
 [Something more](http://example.com/)
+
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
 ---
