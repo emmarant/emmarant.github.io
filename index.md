@@ -4,23 +4,23 @@
 
 ### WHO
 
-[Project 1 Title](/sample_page)
+[Something](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Something else](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Something more](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### WHAT
 
-[comment] # - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Title 1](http://example.com/)
+- [Title 2](http://example.com/)
 
 
 ---
