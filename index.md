@@ -2,6 +2,7 @@
 [Something else](/sample_page)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
+
 ---
 
 ## Research
