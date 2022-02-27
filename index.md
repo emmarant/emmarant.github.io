@@ -5,23 +5,21 @@
 
 ---
 
-## Research
+## [Research](/pages/research.md)
 
-[Something else](/pages/research.md)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
 ---
 
-## Publications
+## [Publications](/pages/publications.md)
 
-[Something else](/pages/publications.md)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
 
 ---
----
+
 
 
 
