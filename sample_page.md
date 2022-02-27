@@ -14,7 +14,7 @@ if (isAwesome){
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
+```
 if (isAwesome){
   return true
 }
