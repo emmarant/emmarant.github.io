@@ -1,6 +1,6 @@
 ## About me
 
-[Something else](/pdf/sample_presentation.pdf)
+[Something else](/sample_page)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
@@ -8,7 +8,7 @@
 
 ## Research
 
-[Something else](/pdf/sample_presentation.pdf)
+[Something else](/sample_page)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
@@ -16,7 +16,7 @@
 
 ## Publications
 
-[Something else](/pdf/sample_presentation.pdf)
+[Something else](/sample_page)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
