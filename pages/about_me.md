@@ -1,4 +1,4 @@
-## internal website page / project page
+## About me
 
 **Project description:** 
 ### 1. 
