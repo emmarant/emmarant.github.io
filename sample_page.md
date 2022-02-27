@@ -17,7 +17,7 @@ this is some text in a box
 ### 3. 
 
 this is some image/file inclusion
-<img src="images/cassata.jpeg?raw=true"/>
+<img src="images/cassata.jpeg?raw=true" width="200"/>
  
 
 
