@@ -1,5 +1,5 @@
 ## About me
-[Something else](/sample_page.md)
+[Something else](/about_me.md)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
@@ -7,7 +7,7 @@
 
 ## Research
 
-[Something else](/sample_page)
+[Something else](/research.md)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
@@ -15,7 +15,7 @@
 
 ## Publications
 
-[Something else](/sample_page)
+[Something else](/publications.md)
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
