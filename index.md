@@ -1,7 +1,6 @@
 ## About me
 
-[Something else](/sample_page)
-
+[Something else](sample_page)
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
 ---
