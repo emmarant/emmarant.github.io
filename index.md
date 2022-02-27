@@ -1,5 +1,5 @@
-## About me
-[Something else](/pages/about_me.md)
+## [About me](/pages/about_me.md)
+
 
 <img src="images/cassata.jpeg?raw=true" width="300"/>
 
