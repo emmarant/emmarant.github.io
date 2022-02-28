@@ -46,8 +46,8 @@ atom_feed:
 author:
   name             : "Emmanouela Rantsiou"
   avatar           : "images/cassata-modified.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "mostly a physicist; mainly interested in DL & <br> animal congnition and behaviour"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
