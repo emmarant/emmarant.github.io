@@ -19,7 +19,7 @@ this is some text in a box
 this is some image/file inclusion
 
 
-<img src="images/cassata.jpeg?raw=true" width="300"/>
+<img src="/images/cassata.jpeg?raw=true" width="300"/>
  
 
 
