@@ -2,7 +2,7 @@
 
 I am a physicist currently working at Paul Scherrer Insitute, Switzerland.
 
-My main focus is on simulations and data analysis/reduction for neutron beamlines and neutron optics.
+My main focus is on simulations and code development for data analysis/reduction for neutron beamlines.
 
 **Education** 
 
