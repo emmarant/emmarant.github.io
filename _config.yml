@@ -3,12 +3,12 @@ logo: "/images/cassata-modified.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   mostly a physicist; 
-  <br> mainly interested in DL and animal behaviour
+  <br> mainly interested in DL & <br> animal congnition and behaviour
   <hr> 
   <br>
   some other stuff about me
   <hr> 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/emmanouela-rantsiou/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
