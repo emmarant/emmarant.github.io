@@ -1,13 +1,14 @@
 ## About me
 
 **Background** 
+---
  
 blah-blah
 
 
 
 **Current Research**
-
+---
 
 ``` 
 this is some text in a box
@@ -15,7 +16,7 @@ this is some text in a box
 
 
 **Research Interests** 
-
+---
 this is some image/file inclusion
 
 
