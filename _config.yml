@@ -3,11 +3,15 @@ logo: "/images/IMG_4270.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   some stuff about me 
   <hr width="70%" 
-     size="2" 
-     align="left" 
+     size="5" 
+     align="center" 
      color="blue" noshade>
   <br><br>
   some other stuff about me
+  <hr width="70%" 
+     size="5" 
+     align="center" 
+     color="blue" noshade>
   <br><br>
   <a href="https://www.linkedin.com/in/emmanouela-rantsiou/">View My LinkedIn Profile</a> 
   
