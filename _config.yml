@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   some other stuff about me
   <hr width="70%" size="15" align="center" color="blue" noshade>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/emmanouela-rantsiou/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
