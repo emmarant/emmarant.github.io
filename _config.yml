@@ -2,6 +2,10 @@ title: Emmanouela Rantsiou # your name (or website title) here
 logo: "/images/IMG_4270.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   some stuff about me 
+  <hr width="70%" 
+     size="2" 
+     align="left" 
+     color="blue" noshade>
   <br><br>
   some other stuff about me
   <br><br>
