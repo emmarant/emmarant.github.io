@@ -44,8 +44,8 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Emmanouela Rantsiou"
+  avatar           : "images/cassata-modified.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
