@@ -23,15 +23,13 @@
           <img src="{{site.author.avatar | relative_url}}" alt="Logo" width="80" height="80"/>
         {% endif %}
 
-        <p>{{ site.author.bio | default: site.github.project_tagline }}</p>
+        <p>{{site.author.bio | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-<!--        {% if site.github.is_user_page %} -->
-<!--        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
-<!--        {% endif %} -->
+
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -48,9 +46,7 @@
       </section>
 
     </div>
-<!--    <footer> 
-       <p>{{site.footer}}</p>
-    </footer> -->
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
