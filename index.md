@@ -1,3 +1,7 @@
+---
+layout:default
+---
+
 ## [About me](/pages/about_me.md)
 ---
 
