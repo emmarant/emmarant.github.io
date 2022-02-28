@@ -3,8 +3,8 @@
 I am a physicist currently working at Paul Scherrer Insitute, Switzerland.
 
 **Education** 
----
-<hl>
+
+-----
 
 - **Northwestern University**, IL USA; PhD in Astrophysics; 2009 
 - **Instituto de Astrofísica de Canarias**, Tenerife/Spain; 2002 & 2004
