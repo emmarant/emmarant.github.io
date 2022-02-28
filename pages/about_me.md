@@ -1,12 +1,12 @@
 ## About me
 
-**Project description:** 
-### 1. 
+**Background** 
+ 
 blah-blah
 
 
 
-### 2.
+**Current Research**
 
 
 ``` 
@@ -14,7 +14,7 @@ this is some text in a box
 ```
 
 
-### 3. 
+**Research Interests** 
 
 this is some image/file inclusion
 
