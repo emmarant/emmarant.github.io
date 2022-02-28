@@ -2,17 +2,11 @@ title: Emmanouela Rantsiou # your name (or website title) here
 logo: "/images/IMG_4270.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   some stuff about me 
-  <hr width="70%" 
-     size="5" 
-     align="center" 
-     color="blue" noshade>
-  <br><br>
+  <hr width="70%" size="15" align="center" color="blue" noshade>
+  <br>
   some other stuff about me
-  <hr width="70%" 
-     size="5" 
-     align="center" 
-     color="blue" noshade>
-  <br><br>
+  <hr width="70%" size="15" align="center" color="blue" noshade>
+  <br>
   <a href="https://www.linkedin.com/in/emmanouela-rantsiou/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
