@@ -14,7 +14,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   /*background-color: $footer-background-color;*/
-  background-color: #7A8786;
+  background-color: mix(#fff,#7A8786 ,60%);
      
   footer {
     @include clearfix;
