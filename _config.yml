@@ -45,7 +45,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Emmanouela Rantsiou"
-  avatar           : "images/cassata-modified.png"
+  avatar           : "cassata-modified.png"
   bio              : "mostly a physicist; <br> mainly interested in DL & animal congnition and behaviour"
   location         : 
   employer         :
