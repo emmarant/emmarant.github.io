@@ -20,7 +20,7 @@ My main focus is on simulations and code development for data analysis/reduction
 - **Aristotle University**, Thessaloniki/Greece, BSc in Physics; 2004
  
 
-**Research Interests** 
+
 
 
 
