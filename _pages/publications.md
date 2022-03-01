@@ -1,4 +1,7 @@
-## Publications
+---
+permalink: /publications/
+title: ""
+---
 
 **Project description:** 
 ### 1. 
