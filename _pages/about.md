@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "about"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,7 +25,7 @@ My main focus is on simulations and code development for data analysis/reduction
 
 **Research Interests** 
 
----
+
 
 
 
