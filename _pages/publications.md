@@ -1,6 +1,8 @@
 ---
 permalink: /publications/
 title: ""
+excerpt: "publications"
+author_profile: true
 ---
 
 **Project description:** 
