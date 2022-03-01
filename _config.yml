@@ -94,6 +94,24 @@ author:
   wikipedia        :
 
 
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:emmanouela.rantsiou@psi.ch"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://emmarant.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/EmmaRantsiou"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/emmarant"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Emmanouela-Rantsiou"
 
 # Social Sharing
 twitter:
