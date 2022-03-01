@@ -1,4 +1,12 @@
-## Research
+---
+permalink: /research/
+title: "Research"
+excerpt: "research"
+author_profile: true
+
+---
+
+
 
 **Project description:** 
 ### 1. 
