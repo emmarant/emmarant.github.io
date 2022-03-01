@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "About"
-     url: https://emmarant.github.io/pages/about
+     url: /about/
    - title: "Research"
-     url: https://emmarant.github.io/pages/research
+     url: /research/
 
