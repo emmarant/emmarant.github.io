@@ -9,10 +9,10 @@
   width: 100%;
   margin-top: 3em;
   color: $muted-text-color;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
+  -webkit-animation: intro 0.3s both;
+          animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
+          animation-delay: 0.45s;
   background-color: $footer-background-color;
 
   footer {
