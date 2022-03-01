@@ -3,7 +3,6 @@ permalink: /
 title: ""
 excerpt: "intro"
 author_profile:true
-
 ---
 
 
