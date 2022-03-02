@@ -10,6 +10,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
 {{post.title}}
+{{post.link}}
 {% endfor %}
 
 
