@@ -24,3 +24,12 @@ author_profile: true
 - Deep Learning techniques for computer vision and Natural Language Processing.
 - Animal cognition/behaviour and animal communication.
 - Auditory and sound production systems of cetaceans and elephants.
+
+<br><br>
+
+**Actively interested in**
+
+-----
+- Music: I play piano, flute, and recorders
+- Culinary arts 
+- Perfumery
