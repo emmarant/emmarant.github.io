@@ -13,7 +13,8 @@ author_profile: true
 <br>
 {{post.citation}}
 <br>
-{{post.paperurl}}
+<a href="{{post.paperurl}}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+
 
 
 {% endfor %}
