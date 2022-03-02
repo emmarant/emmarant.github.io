@@ -17,5 +17,4 @@ author_profile: true
  
  
  **Scientifically curious about**
- 
- -----
+  -----
