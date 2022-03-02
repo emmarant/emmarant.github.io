@@ -5,26 +5,14 @@ excerpt: "publications"
 author_profile: true
 ---
 
-**Project description:** 
-### 1. 
-blah-blah
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+{{post.title}}
+{% endfor %}
 
 
-
-### 2.
-
-
-``` 
-this is some text in a box
-```
-
-
-### 3. 
-
-this is some image/file inclusion
-
-
-<img src="images/cassata.jpeg?raw=true" width="300"/>
  
 
 
