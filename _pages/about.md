@@ -13,7 +13,7 @@ author_profile: true
 
 - `Northwestern University`, IL USA; PhD in Astrophysics [2009] 
 - `Instituto de Astrofísica de Canarias`, Spain; [Fall/Winter 2002/2003 & Spring/Summer 2004]
-- `_Aristotle University of Thessalobniki_`, Greece; BSc in Physics [2004]
+- `Aristotle University of Thessalobniki`, Greece; BSc in Physics [2004]
  
 
 <br><br>
