@@ -7,26 +7,16 @@ author_profile: true
 
 
 
-**Project description:** 
-### 1. 
-blah-blah
+**Current research projects:** 
+
+- Automatic alignment of neutron lenses  (Swiss SNF-funded).
+- Real-time surveillance of single-crystal material synthesis. 
+- Classification of crystal symmetries  from X-ray diffraction data.
+- Wavelength prediction of single neutron events on scintillation cameras.
 
 
 
-### 2.
 
-
-``` 
-this is some text in a box
-```
-
-
-### 3. 
-
-this is some image/file inclusion
-
-
-<img src="/images/cassata.jpeg?raw=true" width="300"/>
  
 
 
