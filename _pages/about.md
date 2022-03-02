@@ -17,4 +17,9 @@ author_profile: true
  
  
  **Scientifically curious about**
+ 
   -----
+- Deep Learning techniques for computer vision and natural language processing.
+- Animal cognition and behaviour.
+- Animal communication.
+- Auditory and sound production systems of cetaceans and elephants.
