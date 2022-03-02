@@ -15,6 +15,8 @@ author_profile: true
 - **Instituto de Astrofísica de Canarias**, Spain; [Fall/Winter 2002/2003 & Spring/Summer 2004]
 - **Aristotle University of Thessalobniki**, Greece; BSc in Physics [2004]
  
+
+<br><br>
  
  **Scientifically curious about**
  
