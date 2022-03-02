@@ -11,7 +11,7 @@ author_profile: true
 {% for post in site.publications reversed %}
 **{{post.title}}** <a href="{{post.paperurl}}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
 <br>
-{{post.citation}}
+<span style="color:gray"> {{post.citation}}</span>
 <br>
 
 
