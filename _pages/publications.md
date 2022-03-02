@@ -10,7 +10,9 @@ author_profile: true
 
 {% for post in site.publications reversed %}
 {{post.title}}
+<br>
 {{post.citation}}
+<br>
 {{post.paperurl}}
 
 
