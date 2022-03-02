@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Μανού"
+title                    : "<span style="color:green">Μανού</span>
 title_separator          : "-"
 name                     : &name "Emmanouela Rantsiou"
 description              : &description "personal description"
