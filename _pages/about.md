@@ -11,7 +11,7 @@ author_profile: true
 
 -----
 
-- _Northwestern University_, IL USA; PhD in Astrophysics [2009] 
+- [Northwestern University], IL USA; PhD in Astrophysics [2009] 
 - _Instituto de Astrofísica de Canarias_, Spain; [Fall/Winter 2002/2003 & Spring/Summer 2004]
 - _Aristotle University of Thessalobniki_, Greece; BSc in Physics [2004]
  
