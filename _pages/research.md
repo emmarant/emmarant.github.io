@@ -9,7 +9,7 @@ author_profile: true
 
 **Current research projects:** 
 
-[test link]({% link _pages/adl-movie.md %})
+[test link]({% link _pages/adl_movie.md %})
 
 
 - _Alignment of neutron optics_. <br> <span style="color:gray">I am exploring DL models for fast, automatic alignement of neutron focusing lenses. 
