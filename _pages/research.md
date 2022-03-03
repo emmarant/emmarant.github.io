@@ -17,7 +17,8 @@ The final model, although trained on simulated images, is deployed on measured (
 <span style="color:gray"> A project in collaboration with former intern Mahyar Joodaki and the Solid State Chemistry group at PSI. We are developing a 3D CNN model able to  monitor the process of single crystal synthesis and provide real-time actionable feedback, removing thus the need for continuous supervision of the crystal growth process (lasting from a few hours to days) by a human operator. </span>
 
 - _Classification of crystal symmetries  from X-ray diffraction data_. <br>
-
+<span style="color:gray">In collaboration with colleagues at University of Zurich, I am working on boosting the performance of DL classification of crystal symmetries  from XRDs.
+The interesting part from a computational point is this:  training is performed on simulated data (labeled measured data are extremely sparce but simulated data are abundand and 'easily' created). </span> 
 
 
 - _Wavelength prediction of single neutron events on scintillation cameras_.<br>
