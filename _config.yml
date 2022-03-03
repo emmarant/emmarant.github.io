@@ -60,7 +60,7 @@ yandex_site_verification :
 author:
   name             : "Emmanouela Rantsiou"
   avatar           : "toscany-modified.jpg"
-  bio              : "mostly a physicist; <br> mainly interested in DL & animals"
+  bio              : "<span style="color:gray">mostly a physicist; <br> mainly interested in DL & animals</span>"
   location         : Switzerland
   employer         : Paul Scherrer Insitute
   pubmed           : 
