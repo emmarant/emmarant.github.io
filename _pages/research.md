@@ -9,8 +9,8 @@ author_profile: true
 
 **Current research projects:** 
 
-[test link]({% link _pages/adl_movie.md %})
-<i class="fas fa-fw fa-video" aria-hidden="true"></i>
+[<i class="fas fa-fw fa-video" aria-hidden="true"></i>]({% link _pages/adl_movie.md %})
+
 
 - _Alignment of neutron optics_. <br> <span style="color:gray">I am exploring DL models for fast, automatic alignement of neutron focusing lenses. 
 I develop and train 2D CNN models using simulated datasets (images) which I create using the ray-tracing code <a href="https://www.mcstas.org">McStas</a>.
