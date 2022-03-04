@@ -15,6 +15,7 @@ author_profile: true
 <br> <span style="color:gray">I am exploring DL models for fast, automatic alignement of neutron focusing lenses. 
 I develop and train 2D CNN models using simulated datasets (images) which I create using the ray-tracing code <a href="https://www.mcstas.org">McStas</a>.
 The final model, although trained on simulated images, is deployed on measured (i.e. 'real') ones, which makes the project interestingly challenging.</span>
+(_click on the movie icon above for a 1 minute animation explaining this project_)
 
 - _Real-time surveillance of single-crystal material synthesis_.<br>
 <span style="color:gray"> A project in collaboration with former intern Mahyar Joodaki and the Solid State Chemistry group at PSI. We are developing a 3D CNN model able to  monitor the process of single crystal synthesis and provide real-time actionable feedback, removing thus the need for continuous supervision of the crystal growth process (lasting from a few hours to days) by a human operator. </span>
